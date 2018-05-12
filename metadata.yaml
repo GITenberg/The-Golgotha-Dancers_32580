@@ -1,0 +1,30 @@
+_repo: The-Golgotha-Dancers_32580
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32580-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wellman, Manly Wade
+    birthdate: 1903
+    deathdate: 1986
+    gutenberg_agent_id: '25394'
+    url: http://www.gutenberg.org/2009/agents/25394
+    wikipedia: http://en.wikipedia.org/wiki/Manly_Wade_Wellman
+description: Cover; Title Page; Copyright Page; The Golgotha Dancers.
+gutenberg_issued: '2010-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Art -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Horror tales'
+- !lcsh 'Fantasy fiction'
+title: The Golgotha Dancers
+url: http://www.gutenberg.org/ebooks/32580
